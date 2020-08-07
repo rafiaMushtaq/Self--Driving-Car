@@ -1,0 +1,20 @@
+//////////////////Inputs ///////////////////////////
+String getSpeed,
+String getAngleToTrackAxis,
+String getTrackPosition,
+String getGear,
+String getRacePosition,
+String getLateralSpeed,
+String getCurrentLapTime,
+String getDamage,
+String getDistanceFromStartLine,
+String getDistanceRaced,
+String getFuelLevel,
+String getLastLapTime,
+String getRPM,
+String getZSpeed,
+String getZ,
+////////////////////////////output/////////////////////////////// 
+String accelerate,
+String steering,
+String gear
